@@ -14,5 +14,5 @@ The printing action of k sorted minimal elements is done by function printkMin()
 This tree is balanced what makes the run time complexity of this operation to be O(k).
 
 
-There is MAKEFILE for making compilation in UBUNTU.
+There is Makefile for making compilation in Ubuntu.
 
